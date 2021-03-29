@@ -1,0 +1,112 @@
+body {
+  background-color: hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+}
+
+.heading {
+  text-align: center;
+  font-weight: 100;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.heading2 {
+  color: hsl(234, 12%, 34%);
+  text-align: center;
+  font-size: 25px;
+  margin-top: -20px;
+}
+
+.para {
+  text-align: center;
+  font-weight: 100;
+  font-size: 12px;
+  color: hsl(229, 6%, 66%);
+}
+
+.para1 {
+  background-color: #fff;
+  background-image: linear-gradient(to top, #fff 98.50%, hsl(0, 78%, 62%) 2.50%);
+  padding: 20px 10px;
+  margin-top: 40px;
+  margin-right: 500px;
+  margin-left: 490px;
+  font-weight: bold;
+    box-shadow: 0 0 10px #000;
+    border-radius: 4px;
+}
+
+.space {
+  color: hsl(229, 6%, 66%);
+    font-size: 12px;
+    font-weight: 400;
+
+}
+
+.img1 {
+  margin-left: 320px;
+  width: 40px;
+  height: 40px;
+}
+
+.para2 {
+  font-weight: bold;
+  background-color: #fff;
+  margin-right: 930px;
+    background-image: linear-gradient(to top, #fff 97%, hsl(180, 62%, 55%) 3%);
+    box-shadow: 0 0 10px #000;
+    border-radius: 4px;
+    padding: 20px 20px;
+    margin-left: 30px;
+    margin-top: -50px;
+}
+
+.space2 {
+  font-weight: 400;
+  color: hsl(229, 6%, 66%);
+  font-size: 12px;
+}
+
+.img2 {
+  margin-left: 320px;
+  width: 40px;
+  height: 40px;
+}
+
+.para3 {
+  background-color: #fff;
+  background-image: linear-gradient(to top, #fff 97%,  hsl(34, 97%, 64%) 3%);
+  margin-right: 500px;
+  padding: 20px 20px;
+  margin-left: 500px;
+  margin-top: -170px;
+  box-shadow: 0 0 10px #000;
+  border-radius: 4px;
+}
+
+.space3 {
+  font-weight: 400;
+  color: hsl(229, 6%, 66%);
+  font-size: 12px;
+}
+
+.img3 {
+  width: 40px;
+  height: 40px;
+  margin-left: 290px;
+}
+
+.para4 {
+  background-color: #fff;
+  background-image: linear-gradient(to top, #fff 97%,  hsl(212, 86%, 64%) 3%);
+  box-shadow: 0 0 10px #000;
+  border-radius: 4px;
+  margin-right: 40px;
+  margin-left: 930px;
+  padding: 20px 20px;
+  margin-top: -290px;
+}
+
+.img4 {
+  margin-left: 300px;
+}
